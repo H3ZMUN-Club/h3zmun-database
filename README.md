@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+## 哈三中模联信息库
 
-You can use the [editor on GitHub](https://github.com/RailgunBreaker/h3zmun-database/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![](https://raw.githubusercontent.com/RailgunBreaker/h3zmun-database/main/img/logo.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 目的
 
-### Markdown
+创建信息库的目的是为了方便每一级的秘书处成员将自己积累的信息传给下一级,让下一级成员更容易获得以前的参考资料, 因为有些资料如笑傲模联无法上传到QQ群文件,此举也是为了成员下载更加方便.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### 警告
 
-- Bulleted
-- List
+本信息库所有由哈尔滨市第三中学模拟联合国协会所制作的版权属于本协会,其余文件属于公有领域允许公开下载, 所有学术文件仅供H3ZMUN社员参考,严禁抄袭, 抄袭者将按照哈尔滨市第三中学模拟联合国协会章程进行处理
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### 分区
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+目前设置了三个分区:基本学术培训, H3ZMUNBG 和官方文件
 
-### Jekyll Themes
+基本学术培训:H3ZMUN曾经使用过培训资料, 不包括学标(因为学标每年都更新)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RailgunBreaker/h3zmun-database/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+H3ZMUNBG: H3ZMUN校内会曾经使用过的背景文件
 
-### Support or Contact
+官方文件: 联合国及其他国际组织(也包括一些政府)发布的官方文件
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 更新
+
+因为要传下去的设定, 所以请在上传之前先确保几件事情
+
+- 学术培训,BG的作者必须是H3ZMUN成员, BG只能是校内会所使用的, 不可以上传其他会议的背景文件
+
+- 上传的官方文件一定是可靠,常用的, 且必须处于公有领域
+
+  满足条件后请使用GitHub的Pull Request功能或联系我(sgh@h3zmun.club)进行更新
+
+  
+
+  
+
+  最后祝使用愉快!
+
+  
+
+  
+
+  ©2021H3ZMUN
+
+  
+
+
+
+
+
