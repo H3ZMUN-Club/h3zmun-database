@@ -36,8 +36,8 @@
 
 <p>满足条件后请使用GitHub的Pull Request功能或联系我(sgh@h3zmun.club)进行更新</p>
 
-  
-
+### 有关访问失败问题
+有时GitHub会被干扰无法访问，若遇到此情况时请使用高阶魔法进行访问，或者百度搜索镜像站，或者通过修改hosts文件以访问
   
 ![](https://raw.githubusercontent.com/RailgunBreaker/h3zmun-database/main/img/logo2.jpg)
 <p>最后祝使用愉快!</p>
