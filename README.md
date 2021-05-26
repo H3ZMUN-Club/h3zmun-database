@@ -41,7 +41,7 @@
 
 
 ### 有关增加新分区或者建议
-可以联系工具人阐述添加新分区的理由(并且需要提供文件), 若合理将会添加
+可以联系工具人阐述添加新分区的理由(并且需要提供文件), 若合理将会添加, 也同时接受使用issue功能联系
 ![](https://raw.githubusercontent.com/RailgunBreaker/h3zmun-database/main/img/logo2.jpg)
 <p>最后祝使用愉快!</p>
 
@@ -50,6 +50,10 @@
   
 
   ©2021H3ZMUN
+  
+  
+  
+  
 
   
 
