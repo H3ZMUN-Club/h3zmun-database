@@ -34,30 +34,30 @@
 
 - 请确保命名没有问题,即可以通过文件名判断内容(因为下载联合国文件时他的文件名是他的编号,需要重命名一下再进行提交)
 
-<p>满足条件后请使用GitHub的Pull Request功能或联系工具人(sgh@h3zmun.club)进行更新</p>
+<p>满足条件后请使用GitHub的Pull Request功能或联系现阶段管理者进行更新</p>
 
-### 有关访问失败问题
+## 有关项目进度
+
+可访问[鸽子的待办](https://github.com/RailgunBreaker/h3zmun-database/projects/1)详细了解
+
+## 有关访问失败问题
+
 有时GitHub会被干扰无法访问，若遇到此情况时请使用高阶魔法进行访问，或者百度搜索镜像站，亦或通过修改hosts文件以访问
 
 
 ### 有关增加新分区或者建议
+
 可以联系工具人阐述添加新分区的理由(并且需要提供文件), 若合理将会添加, 也同时接受使用issue功能联系
 ![](https://raw.githubusercontent.com/RailgunBreaker/h3zmun-database/main/img/logo2.jpg)
+
 <p>最后祝使用愉快!</p>
 
   
 
-  
+©2021H3ZMUN
 
-  ©2021H3ZMUN
-  
-  
-  
   
 
   
 
-
-
-
-
+  
