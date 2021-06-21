@@ -38,7 +38,7 @@
 
 ## 有关项目进度
 
-可访问[鸽子的待办](https://github.com/RailgunBreaker/h3zmun-database/projects/1)详细了解
+可访问[鸽子的待办](https://github.com/RailgunBreaker/h3zmun-database/projects/1)详细了解，不能保证时效性，若想了解实时进度请联系管理员
 
 ## 有关访问失败问题
 
