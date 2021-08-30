@@ -24,6 +24,8 @@
 
 [官方文件](https://github.com/RailgunBreaker/h3zmun-database/tree/main/3.%E5%AE%98%E6%96%B9%E6%96%87%E4%BB%B6): 联合国及其他国际组织(也包括一些政府)发布的官方文件
 
+[社团事项](https://github.com/H3ZMUN-Club/h3zmun-database/tree/main/4.%E7%A4%BE%E5%9B%A2%E4%BA%8B%E9%A1%B9): H3ZMUN社团内部行政事项所用资料（招新考试不会被放入）
+
 ### 更新
 
 因为要传下去的设定, 所以请在上传之前先确保几件事情
@@ -34,7 +36,7 @@
 
 - 请确保命名没有问题,即可以通过文件名判断内容(因为下载联合国文件时他的文件名是他的编号,需要重命名一下再进行提交)
 
-<p>满足条件后请使用GitHub的Pull Request功能或联系现阶段管理者进行更新</p>
+<p>满足条件后请使用GitHub的Pull Request功能或联系现阶段管理者（20N7闫齐芮）进行更新</p>
 
 ## 有关项目进度
 
