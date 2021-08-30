@@ -1,6 +1,6 @@
 ## 哈三中模联信息库
 
-![](https://raw.githubusercontent.com/RailgunBreaker/h3zmun-database/main/img/logo.jpg)
+![](https://github.com/H3ZMUN-Club/h3zmun-database/blob/main/4.%E7%A4%BE%E5%9B%A2%E4%BA%8B%E9%A1%B9/%E5%9B%BE%E7%89%87/logo.jpg)
 
 ### 目的
 
